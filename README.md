@@ -2,7 +2,7 @@
 
 ## Languages
 
-*[HeySushil - YouTube](https://youtube.com/heysushil)
+* [![Next.js](nextjs-logo.png)](https://nextjs.org/)
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
