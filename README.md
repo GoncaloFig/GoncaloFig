@@ -2,7 +2,6 @@
 
 ## Languages
 
-* [![Java][Java.jcom]][Java-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
