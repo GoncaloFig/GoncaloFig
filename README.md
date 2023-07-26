@@ -8,7 +8,7 @@
         I'm eager to explore and contribute to new and exciting projects. <br>
         Feel free to reach out to me with any opportunities that you think might align with my skills and interests.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/gonçalo-figueiredo-it/">
+    <a href="https://www.linkedin.com/in/goncalo-figueiredo/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
